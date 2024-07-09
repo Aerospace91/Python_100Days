@@ -141,3 +141,9 @@ Create a class for a simple car with methods like start and stop.
 
 ## Day 40 - Class hierarchy
 Create a class hierarchy for different shapes (circle, square, triangle).
+
+## Day 41 - Inheritance
+Implement inheritance between classes.
+
+## Day 42 - Class methods
+Create a class for a bank account with methods for deposit and withdrawal.
