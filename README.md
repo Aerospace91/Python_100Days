@@ -111,3 +111,33 @@ Create a dictionary of words and their frequencies.
 
 ## Day 30 - Sort a list
 Sort a list of numbers in ascending order.
+
+## Day 31 - Merge dictionaries.
+Merge two dictionaries.
+
+## Day 32 - File operations: Read
+Read and display the contents of a text file.
+
+## Day 33 - File operations: Write
+Write data to a text file.
+
+## Day 34 - File operations: Append
+Append data to an existing text file.
+
+## Day 35 - File operations
+Calculate the average of numbers in a text file.
+
+## Day 36 - Handle Exceptions I
+Handle exceptions for division by zero.
+
+## Day 37 - Handle Exceptions II
+Handle exceptions for file not found.
+
+## Day 38 - Custom Exceptions
+Create a custom exception class.
+
+## Day 39 - Class Object
+Create a class for a simple car with methods like start and stop.
+
+## Day 40 - Class hierarchy
+Create a class hierarchy for different shapes (circle, square, triangle).
