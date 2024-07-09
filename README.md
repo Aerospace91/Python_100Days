@@ -46,3 +46,8 @@ Day 5 - Conditional Statements
 2. Write a program that takes three numbers as input and prints the largest among them
 3. Write a program that checks if a given input year is a leap year or not
 4. Write a program that reads the percentage and then prints their corresponding letter grade (A, B, C, D, or F)
+
+## Day 6 - Calculate the area of a circle
+---
+Day 6 - Calculate the area of a circle.
+Write a program that takes radius of the circle and outputs the area of the circle to 2 decimal digits
