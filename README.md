@@ -38,3 +38,11 @@ Day 4 - Arithmetic Operations
 
 Reading List:
 1. Learn about formatting options such as precision, alignment, and decimal places to present output in a clear and concise manner
+
+## Day 5 - Conditional Statements
+---
+Day 5 - Conditional Statements
+1. Write a program that reads an integer as user input and prints whether the number is Odd or Even to the console
+2. Write a program that takes three numbers as input and prints the largest among them
+3. Write a program that checks if a given input year is a leap year or not
+4. Write a program that reads the percentage and then prints their corresponding letter grade (A, B, C, D, or F)
