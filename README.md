@@ -147,3 +147,72 @@ Implement inheritance between classes.
 
 ## Day 42 - Class methods
 Create a class for a bank account with methods for deposit and withdrawal.
+
+## Day 43 - Encapsulation
+Implement encapsulation in a class.
+
+## Day 44 - Class definition
+Create a class for a book with attributes like title and author.
+
+## Day 45 - Polymorphism
+Implement polymorphism with a shape area calculator.
+
+## Day 46 - Class decorators
+Use class decorators in Python.
+
+## Day 47 - Stacks
+Implement a stack data structure.
+
+## Day 48 - Queues
+Implement a queue data structure.
+
+## Day 49 - Binary Search Tree
+Implement a binary search tree.
+
+## Day 50 - Linked List
+Implement a linked list.
+
+## Day 51 - Graphs
+Implement a graph data structure.
+
+## Day 52 - Hash Table
+Implement a hash table.
+
+## Day 53 - Set Operations
+Perform various operations on sets (union, intersection, etc.).
+
+## Day 54 - List comprehensions
+Use list comprehensions to filter and transform lists.
+
+## Day 55 - Iterable class.
+Implement a custom iterable class.
+
+## Day 56 - Sorting algorithms
+Implement sorting algorithms (e.g., bubble sort, merge sort).
+
+## Day 57 - Search algorithms
+Implement searching algorithms (e.g., binary search).
+
+## Day 58 - Depth-first search (DFS) algorithm
+Implement a depth-first search (DFS) algorithm.
+
+## Day 59 - Breadth-first search (BFS) algorithm
+Implement a breadth-first search (BFS) algorithm.
+
+## Day 60 - Tower of Hanoi
+Solve the Tower of Hanoi problem.
+
+## Day 61 - Dynamic Programming
+Implement dynamic programming for Fibonacci.
+
+## Day 62 - Web server
+Create a simple web server using Flask or Django.
+
+## Day 63 - CRUD application
+Build a basic CRUD (Create, Read, Update, Delete) application.
+
+## Day 64 - User authentication
+Implement user authentication in a web application.
+
+## Day 65 - RESTful API framework
+Create a RESTful API using Flask or Django REST framework.
