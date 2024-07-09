@@ -20,3 +20,11 @@ Reading List:
 1. Learn the terms: initialization, declaration and assignment of variables
 2. Learn the difference between Dynamically typed and Statically typed variables
 
+## Day 3 - Input and Output
+---
+Day 3 - Input and Output
+1. Write a program that reads user input and print it to the console.
+2. Modify the program to read and print different data type inputs (integers, floating-point numbers, strings)
+
+Reading List:
+1. Explore various methods for reading different type of inputs
