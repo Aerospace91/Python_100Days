@@ -84,3 +84,30 @@ Write a function to calculate the Fibonacci sequence up to a certain limit.
 
 ## Day 21 - Reverse List
 Write a function to reverse a list.
+
+## Day 22 - List duplicates
+Write a function to remove duplicates from a list.
+
+## Day 23 - List intersection
+Write a function to find the intersection of two lists.
+
+## Day 24 - Words to sentence.
+Write a function to convert a list of words into a sentence.
+
+## Day 25 - Words frequency
+Write a function to count the frequency of words in a sentence.
+
+## Day 26 - Anagram strings
+Write a function check if two strings are anagrams.
+
+## Day 27 - Longest word
+Find the longest word in a sentence.
+
+## Day 28 - Reverse words
+Reverse words in a sentence.
+
+## Day 29 - Words frequency
+Create a dictionary of words and their frequencies.
+
+## Day 30 - Sort a list
+Sort a list of numbers in ascending order.
