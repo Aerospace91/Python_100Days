@@ -61,3 +61,8 @@ Day 7 - Temparature Conversion
 ---
 Day 8 - Simple Calculator
 Create a simple calculator program that can add, subtract, multiply, and divide two integers
+
+## Day 9 - Random number generator
+---
+Day 9 - Random number generator
+1. Write a program that generates a random number. 2. Write a program that generates random number between 2 integers
