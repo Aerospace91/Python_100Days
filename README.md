@@ -51,3 +51,8 @@ Day 5 - Conditional Statements
 ---
 Day 6 - Calculate the area of a circle.
 Write a program that takes radius of the circle and outputs the area of the circle to 2 decimal digits
+
+## Day 7 - Temperature Conversion
+---
+Day 7 - Temparature Conversion
+1. Write a program to convert temperature from Celsius to Fahrenheit. 2. Write a program to convert temperature from Fahrenheit to Celsius
