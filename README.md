@@ -56,3 +56,8 @@ Write a program that takes radius of the circle and outputs the area of the circ
 ---
 Day 7 - Temparature Conversion
 1. Write a program to convert temperature from Celsius to Fahrenheit. 2. Write a program to convert temperature from Fahrenheit to Celsius
+
+## Day 8 - Simple Calculator
+---
+Day 8 - Simple Calculator
+Create a simple calculator program that can add, subtract, multiply, and divide two integers
